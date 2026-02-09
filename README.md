@@ -6,3 +6,39 @@ Bu proje, React “geliştirilmiş basit bir sosyal medya gönderi uygulamasıd�
 Kullanıcıların gönderileri görüntülenebilir, beğenilebilir ve incelenebilir.
 
 Proje, React bileşen yapısı , props & state yönetimi ve list render etme (map) konularını güçlendirmek amacıyla geliştirilmiştir.
+
+🚀 Özellikler
+
+Gönderim listesini dinamik olarak render etme
+
+Gönderilere beğeni ekleyebilme
+
+Beğenilerin eyalet üzerinden güncellenmesi
+
+listelenmek
+
+Bileşen mimarisi
+
+Tek yönlü veri dağılımı (props)
+
+🧠 Kullanılan Teknolojiler
+
+React
+
+JavaScript (ES6)
+
+CSS
+
+Font Awesome Simgeleri
+
+🧩 Bileşen Yapısı
+
+App – Uygulamanın ana devlet yönetimi
+
+Gonderiler – Gönderim listesi render eder
+
+Gonderi – Tek bir gönderiyi temsil eder
+
+BegenBolumu – Beğeni işlemleri ve sayısı
+
+Yorumlar / Yorum – Yorum listesi gösterilir
